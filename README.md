@@ -12,6 +12,17 @@ A responsive productivity web application built with React that helps users orga
 - **Data Persistence:** Store supported application data in browser Local Storage.
 - **Responsive Interface:** Use the application across different screen sizes.
 
+## Screenshots
+
+### Tasks Board
+![Tasks Board](screenshots/tasks.png)
+
+### Notes Page
+![Notes Page](screenshots/notes.png)
+
+### Settings Page
+![Settings Page](screenshots/settings.png)
+
 ## Tech Stack
 
 - React.js
