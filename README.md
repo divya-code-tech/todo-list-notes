@@ -81,6 +81,7 @@ npm run preview
 
 ## Project Structure
 
+```text
 todo-list-notes/
 ├── public/
 ├── screenshots/
@@ -93,6 +94,7 @@ todo-list-notes/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+```
 
 *Note: The exact folders and files may vary depending on the current project structure.*
 
